@@ -7,8 +7,8 @@ Decidi criar um clean website, simples, mais ou menos black/white, com a intenç
 ![alt text](https://github.com/italosantana/Vamos-se-previnir-/blob/main/img/Banner.JPG)
 
 ## 💡 Markdown do aprendizado
-[X] Manipular camadas no MyMaps
-[X] Ancoragem de MENU
+- [x] Manipular camadas no MyMaps
+- [x] Ancoragem de MENU
 
 ## 🎈 Inspiração
 Todo layout de apresentação no GitHub foi inspirado nos projetos do @iuricode
