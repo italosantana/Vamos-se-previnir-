@@ -1,0 +1,103 @@
+body {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	display: flex;
+}
+
+/* barra de textualização*/
+a {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	margin: 20px;
+}
+
+
+p {
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	font-size: 40px;
+	margin-top: -400px;
+
+}
+
+h4 {
+	font-family: 'Nunito', sans-serif;
+	text-align: left;
+	font-size: 20px;
+}
+
+h3 {
+	font-family: 'Nunito', sans-serif;
+	text-align: left;
+	font-size: 40px;
+}
+
+/* BARRA DE CONTAINER DE*/
+
+
+.content-header {
+	font-family: 'Roboto', sans-serif;
+	color: #14274e;
+	padding: 20px 80px;
+}
+
+.content-header-menu {
+	position: right;
+	padding: 40px 200px;
+	}
+
+.container-content {
+	width: 100%;
+	padding-top: 400px;
+	position: absolute;
+	margin-top: 100px;
+	
+}
+
+.container-content-se-previnir {
+	display: block;
+	padding-top: 500px;
+	text-align: center;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 24px;
+}
+
+.container-content-onde-previnir {
+
+	padding-top: 500px;
+	text-align: left;
+	margin-top: 400px;
+	margin-left: 24px;
+}
+
+.container-content-numeros {
+	padding-top: 500px;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 24px;
+}
+
+.footer-container{
+	position: absolute;
+	display: flex;
+	font-family: 'Nunito', sans-serif;
+}
+
+#container-maps {
+	text-align: center;
+
+}
+
+/* Barra de CSS imagem */
+
+
+#img-como-se-previnir {
+	text-align: center;
+}
